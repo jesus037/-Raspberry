@@ -7,4 +7,5 @@ La fundación Raspberry Pi quería hacer llegar la informática a todos los usua
 la informática está al alcance de todos los usuarios e incluso bolsillos. También se ha introducido para la enseñanza de informática en escuelas, se puede comprar en lotes para el sector de la educación desde su propia página web que nos redirigirá al distribuidor asociado para esto.
 
 El microordenador Raspberry Pi ha pasado por varias versiones de mejora, pero continua con su reducido precio de aproximadamente 35$, para funcionar utiliza un sistema operativo, Raspbian, basado en Linux y especial para aprovechar el hardware de este microordenador. Además de Raspbian,
- multitud de sistemas han aparecido que hacen de la Raspberry Pi un microordenador para diferentes fines, centros multimedia, emuladores de máquinas recreativas, etc.
+
+![stack Overflow](https://github.com/1804marcos/-Raspberry/blob/main/imagenes/raspberry-pi-ports.jpg)

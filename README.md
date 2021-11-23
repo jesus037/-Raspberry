@@ -15,4 +15,4 @@ El proyecto consiste en instalar un so en una raspberry
 - [Instalacion frabuesa](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager/)
 
 ## Licencia
-- [Licencia](https://github.com/anasalasro/docker-portainer/blob/main/imagenes/by-sa.png)  
+- [Licencia](https://github.com/1804marcos/-Raspberry/blob/main/imagenes/by-sa.png)  

@@ -16,3 +16,6 @@ El proyecto consiste en instalar un so en una raspberry
 
 ## Licencia
 - [Licencia](https://github.com/1804marcos/-Raspberry/blob/main/imagenes/by-sa.png)  
+
+##
+Betis

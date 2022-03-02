@@ -1,5 +1,5 @@
 #blueberry
-## Descripcion  adios
+## Descripcion 
 El proyecto consiste en instalar un so en una raspberry
 
 **portainer/portainer-ce**
